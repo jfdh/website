@@ -48,6 +48,8 @@ class Header extends React.Component {
 
           <a href="http://twitter.com/brutogether" target="_blank" className="nav-social__icon twitter" rel="noopener noreferrer"></a>
 
+          <a href="https://opencollective.com/brusselstogether" target="_blank" className="nav-social__icon opencollective" rel="noopener noreferrer"></a>
+
           <a href="http://github.com/brusselstogether" target="_blank" className="nav-social__icon github" rel="noopener noreferrer"></a>
 
           <a href="mailto:info@brusselstogether.org" className="nav-social__icon email"></a>

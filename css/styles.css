@@ -67,16 +67,13 @@ a:hover {
   height: 28px;
   width: 28px;
 }
+.nav-social__icon.opencollective { background: url('/opencollective.svg'); }
 .nav-social__icon.slack { background: url('/slack.svg'); }
 .nav-social__icon.facebook { background: url('/facebook.svg'); }
 .nav-social__icon.github { background: url('/github.svg'); }
 .nav-social__icon.twitter { background: url('/twitter.svg'); }
 .nav-social__icon.email { background: url('/email.svg'); }
-.nav-social__icon.slack:hover,
-.nav-social__icon.facebook:hover,
-.nav-social__icon.github:hover,
-.nav-social__icon.twitter:hover,
-.nav-social__icon.email:hover {
+.nav-social__icon:hover {
   background-position:0 28px
 }
 .posts {
