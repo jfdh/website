@@ -1,0 +1,141 @@
+html, body {
+  color: #333;
+  background-color: rgb(252, 252, 252);
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Oswald', sans-serif;
+  color: #333;
+}
+a {
+  display: inline;
+  text-decoration: none;
+  color: #333;
+}
+a:hover {
+  text-decoration: none;
+}
+.text-link__decorate,
+.article-body a {
+  text-decoration: none;
+  margin-bottom: -3px;
+  border-bottom: 2px solid #1CDFFF;
+}
+.text-link__decorate:visited,
+.article-body a:visited {
+  color: #666;
+}
+.text-link__decorate:hover,
+.article-body a:hover {
+  color: #1CDFFF;
+}
+
+.nav {
+  text-align: center;
+}
+.nav-header {
+  line-height: 36px;
+}
+.nav-header__avatar {
+  display: block;
+  width: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.nav-header__title {
+  text-align: center;
+  font-size: 32px;
+  text-decoration: none;
+}
+.nav-menu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+  font-size: 22px;
+}
+.nav-menu__item {
+
+}
+.nav-social {
+  margin-top: 40px;
+  text-align: center;
+}
+.nav-social__icon {
+  display: inline-block;
+  margin: 0 5px;
+  height: 28px;
+  width: 28px;
+}
+.nav-social__icon.slack { background: url('/slack.svg'); }
+.nav-social__icon.facebook { background: url('/facebook.svg'); }
+.nav-social__icon.github { background: url('/github.svg'); }
+.nav-social__icon.twitter { background: url('/twitter.svg'); }
+.nav-social__icon.email { background: url('/email.svg'); }
+.nav-social__icon.slack:hover,
+.nav-social__icon.facebook:hover,
+.nav-social__icon.github:hover,
+.nav-social__icon.twitter:hover,
+.nav-social__icon.email:hover {
+  background-position:0 28px
+}
+.posts {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.posts-item {
+  margin-bottom: 12px;
+}
+.posts-item__title {
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+}
+.posts-item__date {
+  font-size: 75%;
+  padding-left: 10px;
+}
+.article {}
+.article-title {
+
+}
+.article-title__date {
+  display: block;
+  margin-bottom: 36px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+}
+.article-body {
+
+}
+.article-body strong > em {
+  padding: 0 2px;
+  font-style: normal;
+  background-color: rgba(238,193,58,0.3);
+}
+.article-footer {
+
+}
+.article-body blockquote {
+  padding-left: 16.875px;
+  border-left: 6px solid lightgray;
+  margin-left: 10.875px;
+  margin-right: 0;
+  padding-right: 0;
+}
+p > img {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+p > img + em {
+  display: block;
+  font-size: 80%;
+  font-style: normal;
+  line-height: 1.4em;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
