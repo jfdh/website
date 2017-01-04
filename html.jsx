@@ -23,8 +23,8 @@ class Html extends React.Component {
           <meta charSet="utf-8"/>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
           <meta name='viewport' content='user-scalable=no width=device-width, initial-scale=1.0 maximum-scale=1.0'/>
-
-          <title>{this.props.title}</title>
+          <meta name="description" content={this.props.description} />
+          <title>{title}</title>
           <link rel="shortcut icon" href="/favicon.png"/>
 
           {cssLink}

@@ -1,0 +1,54 @@
+---
+title: Our services
+description: Create your ASBL/VZW association online. No paperwork.
+---
+
+Our goal is to provide services to all initiatives happening in Brussels to make their life easier.
+
+Like the Internet, a city is a public infrastructure on top of which people are invited to contribute.
+Making things happen in Brussels today feels like creating a website in 1990. It requires too much work and not everybody has the time nor energy to do it (remember when we had to set up our own web server to host a website?).
+
+Luckily, over the years, it became easier and easier to publish online. We got there by open sourcing the technologies that we all needed so that we could stop wasting time reinventing the wheel and focus instead on our unique contribution to the world.
+
+That's why our goal is to open source all the things that can be open sourced and mutualized all the things that can be mutualized to reduce the friction that exists to create, maintain and operate an association in Brussels.
+
+## Create your association online
+
+As soon as you need to deal with money, you have to create an association (ASBL/VZW). Let's be honest, this is a pain in the ass.
+You need to create statuses (in French or Dutch!) and do the accounting. Plus reports that you need to send every year (or every quarter if you are subject to VAT). So much overhead for just throwing up events or doing some local actions here and there. Not to mention that this is something that each and every single association has to go through. So much energy wasted.
+
+BrusselsTogether allows you to create a virtual association online.
+
+## Benefits
+
+- No paperwork, no accounting
+- No need to create a new bank account
+- Up and running in a day*
+- Collect donations and membership dues online (optional)
+- Fully transparent: everybody can see how much money you have and how you spend it, gives trust to the community to support you.
+- Allow anyone to get their expenses reimbursed
+- Get free Google Ads to advertise your activities
+
+*\* Well, depending on how fast we can review your application to make sure you are legit.*
+
+### How does it work?
+
+Here is an example of a collective: https://opencollective.com/RefugeesGotTalent
+People can donate with their credit card or become a member (a friend of) with a monthly donation.
+Companies can also become sponsors. They will automatically receive an invoice.
+
+Anyone can submit an expense or an invoice to the collective. Once approved by one of the administrators (the core contributors of the collective), they get reimbursed via PayPal.
+
+Everybody can see in full transparency how much money there is in the collective and how it is spent. It gives trust to the community that they should support your collective.
+
+### How to apply?
+
+- [Fill in this form](https://opencollective.com/BrusselsTogether/apply)
+
+We will review it as soon as possible (usually takes a day or two)
+
+### What's the catch?
+
+- There is a 10% commission on all revenue of a collective for being the Fiscal Sponsor (meaning that we take care of your accounting and hold the money on your behalf). On top of that there are also fees for collecting money with credit card (1.9% + €0.25 per transaction)
+- Out of this 10% commission, half of it (5%) goes to BrusselsTogether ASBL/VZW to pay for things that make more sense to spend together, such as accounting services. As a contributor, you will have your say in how we should spend that common budget. The other 5% goes to the platform [OpenCollective.com](https://OpenCollective.com) (which is [open source](https://github.com/opencollective/opencollective)).
+- You can't hire employees (but you can hire independent workers).
