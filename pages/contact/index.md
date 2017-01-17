@@ -7,6 +7,10 @@ title: Contact
 - Meetup group: https://meetup.com/BrusselsTogether
 - Email: [info@brusselstogether.org](mailto:info@brusselstogether.org)
 
+## Get the montly newsletter
+
+[Sign up now](http://brusselstogether.us15.list-manage.com/subscribe?u=bc4a7d8ae7c38b1bb4ae32404&id=08f5b0187e) for a monthly digest of events and projects to build Brussels Together.
+
 ## Become a member!
 
 Help us support all the initiatives that make Brussels a great city to live and work, become a member or donate.
