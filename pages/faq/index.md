@@ -53,3 +53,18 @@ Edit the [#BrusselsTogether Spreadsheet](http://bit.ly/BrusselsTogetherSpreadshe
 
 ### Add a place to work or meet
 Edit the [#BrusselsTogether Spreadsheet](http://bit.ly/BrusselsTogetherSpreadsheet) and add your initiative in the "Places" tab.
+
+### Submit an invoice to one of the collectives hosted by BrusselsTogether
+If you need to send an invoice to BrusselsTogether ASBL/VZW or to one of the hosted collectives, send a PDF via their online form: <br />
+e.g. https://opencollective.com/CivicInnovationNetwork/expenses/new.<br />
+Make sure that the invoice is addressed to:
+
+[Collective Name]<br />
+BrusselsTogether ASBL<br />
+Rue de l'Industrie 11<br />
+1000 Brussels<br />
+Enterprise number: 0664932030
+
+Once approved by the collective, it will be paid.
+
+**Protip:**  If you provide a PayPal email when submitting the invoice, it will be paid faster! ⚡️
