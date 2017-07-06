@@ -47,8 +47,10 @@ Everybody can see in full transparency how much money there is in the collective
 
 We will review it as soon as possible (usually takes a day or two)
 
-### What's the catch?
+### How much does it cost?
 
-- There is a 10% commission on all revenue of a collective for being the Fiscal Sponsor (meaning that we take care of your accounting and hold the money on your behalf). On top of that there are also fees for collecting money with credit card (1.9% + €0.25 per transaction)
-- Out of this 10% commission, half of it (5%) goes to BrusselsTogether ASBL/VZW to pay for things that make more sense to spend together, such as accounting services. As a contributor, you will have your say in how we should spend that common budget. The other 5% goes to the platform [OpenCollective.com](https://OpenCollective.com) (which is [open source](https://github.com/opencollective/opencollective)).
+- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether).
+- If you are raising money online:
+  - there is an additional credit card processing fee (1.9% + €0.25 per transaction)
+  - there is a 5% crowdfunding fee (included in the 10%) that goes to the Open Collective Platform (which is [open source](https://github.com/opencollective/opencollective)).
 - You can't hire employees (but you can hire independent workers).
