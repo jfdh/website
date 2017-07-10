@@ -23,23 +23,25 @@ BrusselsTogether allows you to create a virtual association online.
 
 - No paperwork, no accounting
 - No need to create a new bank account
-- Up and running in a day*
+- Up and running in a day or so*
 - Collect donations and membership dues online (optional)
 - Fully transparent: everybody can see how much money you have and how you spend it, gives trust to the community to support you.
 - Allow anyone to get their expenses reimbursed
+- Easy to shut down or transfer to your own non profit association (ASBL/VZW)
 - Get free Google Ads to advertise your activities
 
 *\* Well, depending on how fast we can review your application to make sure you are legit.*
 
 ### How does it work?
 
-Here is an example of a collective: https://opencollective.com/RefugeesGotTalent
-People can donate with their credit card or become a member (a friend of) with a monthly donation.
+Here is an example of a collective: https://opencollective.com/VeganizerBXL (see the list of [all the collectives hosted by BrusselsTogether](https://opencollective.com/BrusselsTogether#collectives)).
+
+People can donate with their credit card or become a member (or "a friend of the collective") with a monthly or yearly donation.
 Companies can also become sponsors. They will automatically receive an invoice.
 
-Anyone can submit an expense or an invoice to the collective. Once approved by one of the administrators (the core contributors of the collective), they get reimbursed via PayPal.
+Anyone can submit an expense or an invoice to the collective. Once approved by one of the administrators (the core contributors of the collective), they get reimbursed via PayPal or by bank transfer.
 
-Everybody can see in full transparency how much money there is in the collective and how it is spent. It gives trust to the community that they should support your collective.
+Everybody can see in full transparency how much money there is in the collective and how it is spent. It gives trust to the community to support your collective.
 
 ### How to apply?
 
@@ -49,8 +51,8 @@ We will review it as soon as possible (usually takes a day or two)
 
 ### How much does it cost?
 
-- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether).
+- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether).
 - If you are raising money online:
   - there is an additional credit card processing fee (1.9% + €0.25 per transaction)
   - there is a 5% crowdfunding fee (included in the 10%) that goes to the Open Collective Platform (which is [open source](https://github.com/opencollective/opencollective)).
-- You can't hire employees (but you can hire independent workers).
+- You can't hire employees (but you can hire independent workers if they can send you an invoice, or via [SMart](http://smartbe.be/en/)).
