@@ -27,6 +27,8 @@ BrusselsTogether allows you to create a virtual association online.
 - Collect donations and membership dues online (optional)
 - Fully transparent: everybody can see how much money you have and how you spend it, gives trust to the community to support you.
 - Allow anyone to get their expenses reimbursed
+- Create your own events and ticketing
+- Benefit from useful advices on how raising funds and build a community online
 - Easy to shut down or transfer to your own non profit association (ASBL/VZW)
 - Get free Google Ads to advertise your activities
 
