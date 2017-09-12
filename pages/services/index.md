@@ -51,8 +51,14 @@ We will review it as soon as possible (usually takes a day or two)
 
 ### How much does it cost?
 
-- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether).
+- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge:
+  - €10/month for up to 5000 euros yearly budget 
+  - €50 euros/month for up to 25k yearly budget 
+  - €100 euros/month for up to 50k yearly budget
+  
+The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether).
+
 - If you are raising money online:
   - there is an additional credit card processing fee (1.9% + €0.25 per transaction)
-  - there is a 5% crowdfunding fee (included in the 10%) that goes to the Open Collective Platform (which is [open source](https://github.com/opencollective/opencollective)).
+  - there is a 5% crowdfunding fee that goes to the Open Collective Platform (which is [open source](https://github.com/opencollective/opencollective)).
 - You can't hire employees (but you can hire independent workers if they can send you an invoice, or via [SMart](http://smartbe.be/en/)).
